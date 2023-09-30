@@ -1,4 +1,4 @@
-# Linux-Webserver-in-C
+# Concurrent-Webserver-in-C
 A local webserver with multithreading capability and different scheduling algorithms available
 
 ## Scheduling algorithms available:
